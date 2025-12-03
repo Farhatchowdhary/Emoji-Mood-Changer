@@ -1,0 +1,65 @@
+Emoji Mood Changer
+
+A simple and fun web project where you can cycle through different emojis to express various moods by clicking a button. Built with HTML, CSS, and JavaScript, it’s perfect for beginners to practice DOM manipulation, event handling, and styling.
+
+Features
+
+Click the “Change Mood” button to cycle through a variety of emojis.
+
+Emoji container is centered on the page.
+
+Background image behind the container for a visually appealing design.
+
+Fully responsive and easy to customize.
+
+Demo
+
+
+(Replace with your actual screenshot)
+
+Installation
+
+Clone the repository:
+
+git clone https://github.com/your-username/emoji-mood-changer.git
+
+
+Open index.html in your favorite browser.
+
+Usage
+
+Open the page in a browser.
+
+Click the “Change Mood” button.
+
+Watch the emoji update and cycle through different moods!
+
+File Structure
+emoji-mood-changer/
+│
+├── index.html       # Main HTML file
+├── css/
+│   └── style.css    # Styles for container, background, and button
+└── js/
+    └── index.js     # JavaScript for emoji cycling functionality
+
+Customization
+
+Add or remove emojis: Edit the emojis array in index.js.
+
+Change background image: Update the background-image URL in style.css.
+
+Adjust container size: Modify width and height in .emoji-container CSS.
+
+Technologies Used
+
+HTML5
+
+CSS3 (Flexbox, Backgrounds)
+
+JavaScript (DOM manipulation, Event listeners)
+
+Author
+
+Your Name – Farhat Chowdhary 
+GitHub Profile - https://github.com/Farhatchowdhary/Emoji-Mood-Changer
